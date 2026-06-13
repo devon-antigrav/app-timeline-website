@@ -332,7 +332,7 @@ export default function App() {
           Production guide
         </p>
         <h1 style={{ fontSize: 26, fontWeight: 600, color: 'var(--text-primary)', marginBottom: 8, lineHeight: 1.2 }}>
-          7-day app build sprint
+          App Build Sprint
         </h1>
         <p style={{ fontSize: 14, color: 'var(--text-secondary)', marginBottom: 14 }}>
           9-phase pipeline · Consumer mobile app · Click any phase to expand
