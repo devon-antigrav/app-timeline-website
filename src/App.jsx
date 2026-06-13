@@ -15,7 +15,7 @@ const PHASES = [
     ],
     tools: [
       { name: 'Claude Projects', url: 'https://claude.ai', desc: "Store your PRD, architecture notes, and master system prompt as persistent project context. Every new conversation in the project auto-inherits this context, making all AI outputs consistently stack-aware and feature-scoped from session one." },
-      { name: 'Linear', url: 'https://linear.app', desc: "AI-powered project management that generates issues directly from your PRD text. Use Linear's Cycles feature to map your 7-day sprint, and its GitHub integration auto-closes issues when code merges — keeping your backlog accurate with zero manual updates." },
+      { name: 'ClickUp', url: 'https://clickup.com', desc: "Full-featured project management with AI-assisted task creation. Generate issues directly from your PRD text, manage your sprint backlog, and use its GitHub integration to auto-close tasks when code merges — keeping your backlog accurate with zero manual updates." },
       { name: 'Notion AI', url: 'https://notion.so', desc: "Generate a complete PRD template, auto-summarize decisions into action items, and maintain your living decision log. Notion AI can produce structured user stories from a single paragraph description of your app — saving hours of requirements writing." },
     ],
   },
